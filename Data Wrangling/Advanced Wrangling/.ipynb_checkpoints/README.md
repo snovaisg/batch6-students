@@ -11,7 +11,6 @@
 **Summary**
 
 Here you'll learn about the Data Science Workflow. 
-In the last BLU we focused in the two first steps of the workflow (the blue boxes in the image), now you will get an idea of the entire pipeline.
 
 ![alt text](media/data_processing_workflow.png)
 
